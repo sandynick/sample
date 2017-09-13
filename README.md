@@ -1,2 +1,2 @@
 # sample
-Its a sample website
+Its a sample website for learning
