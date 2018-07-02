@@ -2,4 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+    background-color: green;
+}
+
 H1{ left:50pt;}
